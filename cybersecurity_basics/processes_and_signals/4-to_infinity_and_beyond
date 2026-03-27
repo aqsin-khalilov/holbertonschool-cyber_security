@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #Infinite cycle to print "To infinity and beyond"
 
 while true; do
