@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Displays pid of Bash without using pgrep
+# shellcheck disable=SC2009
+
+ps aux --forest | grep bash
